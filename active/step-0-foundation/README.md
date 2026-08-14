@@ -1,148 +1,159 @@
 # STEP 0 — FOUNDATION
 
-**Status:** ACTIVE
-
-This step establishes the conceptual and governance foundation of Project Ink-VK before the framework is frozen or used as an execution standard.
+**Status:** ✅ FROZEN — v1.0  
+**Closed:** 2026-08-14
 
 ## Goal
 
-Define enough of Ink-VK that future source mining and client transformations can be performed consistently, with preserved provenance, explicit decisions, and a defensible handoff into design and architecture.
+STEP 0 existed to define enough of Ink-VK that future Chinese Method campaigns could be executed consistently, with preserved provenance, explicit target truth, declared donor fidelity, controlled transformation decisions, reproducible case workspaces, and a defensible handoff into PLAN / BUILD / validation.
 
-## Current questions
+That goal is now met.
 
-- What exactly is Ink-VK and what is outside its scope?
-- What does `Soul` mean operationally?
-- How does the Chinese Method relate to Ink-VK?
-- What are the canonical phases and gates?
-- How are mining sites, quarries, donors, and transformations recorded?
-- What evidence is required to select a source?
-- What must be checked before reusing code, designs, text, or assets?
-- How do we prove a transformed system belongs to the client rather than merely resembling the donor?
-
-## Work lanes
+## Gate result
 
 ```text
-brainstorm/   raw concepts, hypotheses, vocabulary, unresolved ideas
-design/       behavior and framework experience decisions
-arch/         structural contracts, boundaries, authority, provenance model
-plan/         executable implementation/documentation plans
-build/        framework implementation artifacts when BUILD is authorized
-evidence/     source evidence, tests, validation, gate proof
-deprecated/   explicitly invalidated directions from this step
+PROJECT DEFINITION / BOUNDARY        ✅
+SOUL CONTRACT                         ✅
+MINING SITE / QUARRY MODEL            ✅
+DONOR SELECTION MODEL                 ✅
+REPLICATION MODES                     ✅
+TARGET TRUTH                          ✅
+TARGET NON-REGRESSION                 ✅
+CONTENT CAPACITY                      ✅
+DONOR JOB DECOMPOSITION               ✅
+INSTITUTIONAL EVIDENCE SCOPE          ✅
+INTERACTION DEPENDENCY TRUTH          ✅
+DNA / FIDELITY MODEL                  ✅
+TRANSFORMATION CONTRACT               ✅
+INK                                   ✅
+CROSS-ROUTE / SYSTEM COHERENCE        ✅
+DESIGN FREEZE / UNKNOWN MODEL         ✅
+PROVENANCE / RIGHTS BOUNDARY          ✅
+KNOWLEDGE GOVERNANCE                  ✅
+CASE WORKSPACE                        ✅
+TACTICAL PLAYBOOK                     ✅
+CAMPAIGN KICKSTART                    ✅
+CANONICAL FLOW                        ✅ v1.0
+FRAMEWORK BASELINE                    ✅ v1.0
+
+BLOCKING FOUNDATION UNKNOWN           0
 ```
 
-## Proposed framework spine
+## Frozen authorities
+
+### Framework baseline
 
 ```text
-00 — FRAME THE HUNT
-01 — CAPTURE THE SOUL
-02 — DEFINE THE NEED
-03 — MINE
-04 — BUILD THE QUARRIES
-05 — TEST THE REPLICANT
-06 — CHOOSE THE DONOR
-07 — DISSECT
-08 — REPLICATION CONTRACT
-09 — INK
-10 — MIGRATE / REBUILD
-11 — VK TEST
-12 — EVIDENCE & MEMORY
+baselines/INK-VK_FRAMEWORK_BASELINE_v1.0.md
 ```
 
-**Important:** this spine is PROPOSED. STEP 0 exists specifically to test and refine it before freezing a baseline.
-
-## Gate 0 candidate
-
-STEP 0 may close only when at least the following are explicit and internally consistent:
-
-- Project definition and boundaries;
-- Soul Contract concept;
-- Mining Site / Quarry model;
-- donor-selection model;
-- transformation vocabulary;
-- provenance / licensing / authorization rule;
-- framework phases and handoffs;
-- evidence model;
-- knowledge/version governance;
-- first frozen Ink-VK framework baseline.
-
-Until then, no framework version should be treated as final.
-
----
-
-## 2026-08-14 — Fidelity-mode iteration
-
-The VTKALL × Dayos case exposed a foundation-level correction.
-
-Ink-VK cannot assume every valid migration should reduce donor resemblance.
-
-Some cases intentionally want:
+### Canonical flow
 
 ```text
-same structural system
-same interaction grammar
-same motion / pacing character
-same 3D experiential role
-same page-family logic
-+
-new target Soul
+active/step-0-foundation/arch/INK-VK_MIGRATION_FLOW_v1.0.md
 ```
 
-Therefore STEP 0 now contains a proposed **Replication Mode** model:
+### Reusable operator layer
 
 ```text
-R1 — PATTERN TRANSFER
-R2 — STRUCTURAL TRANSPOSITION
-R3 — EXPERIENTIAL SOUL TRANSPOSITION
-R4 — AUTHORIZED IMPLEMENTATION REUSE overlay
+methodology/INK-VK_CASE_WORKSPACE_CONTRACT_v1.0.md
+methodology/INK-VK_TACTICAL_PLAYBOOK_v1.0.md
+methodology/INK-VK_CAMPAIGN_KICKSTART_TEMPLATE_v1.0.md
 ```
 
-Current VTKALL × Dayos classification:
+### Governance
 
 ```text
-R3 — EXPERIENTIAL SOUL TRANSPOSITION
+methodology/KNOWLEDGE_GOVERNANCE.md
 ```
 
-This changes the VK question for high-fidelity cases.
-
-The framework must not ask only:
-
-> Does the result stop looking like the donor?
-
-For R3 it must ask:
-
-> Does the result preserve the donor experience where fidelity was explicitly required while replacing donor identity and meaning with the target Soul?
-
-### New foundation artifacts
+### Closure evidence
 
 ```text
-methodology/INK-VK_REPLICATION_MODES_v0.1.md
-active/step-0-foundation/arch/INK-VK_MIGRATION_FLOW_v0.2.md
-active/step-0-foundation/design/VTKALL_SOUL_CONTRACT_v0.1.md
-active/step-0-foundation/design/VTKALL_DAYOS_FIDELITY_CONTRACT_v0.1.md
-active/step-0-foundation/design/VTKALL_DAYOS_ROUTE_EXPERIENCE_MAPPING_v0.1.md
+active/step-0-foundation/evidence/INK-VK_FOUNDATION_CLOSURE_AUDIT_v1.0.md
 ```
 
-### Current VTKALL × Dayos gate
+## Canonical proving case
+
+VTKALL × Dayos is the first canonical proving case.
+
+It forced the framework to evolve beyond the original simple sequence and supplied evidence for the controls now adopted in v1.0.
+
+The case strongly exercises the framework through:
 
 ```text
-TARGET RECOVERY                  ✅
-TARGET AUDIT                     ✅
-TARGET SOUL                      ✅ v0.1
-DONOR RECOVERY                   ✅
-DONOR DNA                        ✅
-REPLICATION MODE                 ✅ R3
-ROUTE / EXPERIENCE MAPPING       ✅ v0.1
-SECTION-BY-SECTION CONTRACT      ← NEXT
-BLUEPRINT                        ⛔
-BUILD                            ⛔
+STEP 00 → STEP 18
 ```
 
-### Framework lesson status
+including Design Freeze / PLAN Readiness.
+
+It has not yet fully exercised:
 
 ```text
-"acceptable donor fidelity must be explicit"
-→ CROSS-CASE CANDIDATE
+19 PLAN execution
+20 BUILD
+21–25 post-BUILD validation
+26 final post-BUILD memory closure
 ```
 
-It remains a candidate until future cases validate or refine it.
+This is validation maturity, not a Foundation blocker.
+
+## Current VTKALL visual-target evidence
+
+The latest pre-BUILD visual review is recorded in:
+
+```text
+active/step-0-foundation/evidence/VTKALL_DAYOS_VISUAL_TARGET_VK_REVIEW_v0.1.md
+```
+
+Result:
+
+```text
+DONOR DESIGN INTELLIGENCE    ✅ PRESENT
+VERTIKALL SOUL               ✅ PRESENT
+TARGET TRUTH                 ✅ PRESENT
+COMPOSITION DIRECTION        ✅ ACCEPTED
+ROUTE DEVICE DIFFERENTIATION ◉ one screenshot-level non-conformance bounded by existing blueprint
+MOTION / DEPTH               ⛔ requires implementation evidence
+```
+
+The review explicitly protects the frozen cross-route rule that Home owns the strongest Operational Network 3D device; Demonstrations and Method must express their own semantic jobs rather than literal hero duplication.
+
+## Framework maturity
+
+```text
+OPERATIONAL COMPLETENESS      FROZEN v1.0
+CROSS-CASE VALIDATION         ACCUMULATING
+NON-WEB VALIDATION            ACCUMULATING
+POST-BUILD VALIDATION         ACCUMULATING
+```
+
+Future cases should create versioned deltas. STEP 0 reopens only if new evidence materially contradicts a foundational rule.
+
+## Historical work
+
+All earlier `v0.x` migration flows, case contracts, audits, design documents, evidence, and framework candidates remain preserved in this step.
+
+They are historical learning, not deleted material.
+
+## Next legitimate use
+
+Do not restart Foundation for the next entity.
+
+Start a new case workspace and apply:
+
+```text
+INK-VK_FRAMEWORK_BASELINE_v1.0
+        ↓
+CASE_WORKSPACE_CONTRACT_v1.0
+        ↓
+CAMPAIGN_KICKSTART_TEMPLATE_v1.0
+        ↓
+00 — FRAME
+```
+
+unless existing evidence justifies a later entry point.
+
+## Closure statement
+
+> **STEP 0 is closed because Ink-VK no longer depends on the VTKALL × Dayos conversation to be understood or operated. The method now exists as repository authority and can travel to the next target.**
