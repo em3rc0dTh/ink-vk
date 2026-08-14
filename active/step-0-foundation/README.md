@@ -67,3 +67,82 @@ STEP 0 may close only when at least the following are explicit and internally co
 - first frozen Ink-VK framework baseline.
 
 Until then, no framework version should be treated as final.
+
+---
+
+## 2026-08-14 — Fidelity-mode iteration
+
+The VTKALL × Dayos case exposed a foundation-level correction.
+
+Ink-VK cannot assume every valid migration should reduce donor resemblance.
+
+Some cases intentionally want:
+
+```text
+same structural system
+same interaction grammar
+same motion / pacing character
+same 3D experiential role
+same page-family logic
++
+new target Soul
+```
+
+Therefore STEP 0 now contains a proposed **Replication Mode** model:
+
+```text
+R1 — PATTERN TRANSFER
+R2 — STRUCTURAL TRANSPOSITION
+R3 — EXPERIENTIAL SOUL TRANSPOSITION
+R4 — AUTHORIZED IMPLEMENTATION REUSE overlay
+```
+
+Current VTKALL × Dayos classification:
+
+```text
+R3 — EXPERIENTIAL SOUL TRANSPOSITION
+```
+
+This changes the VK question for high-fidelity cases.
+
+The framework must not ask only:
+
+> Does the result stop looking like the donor?
+
+For R3 it must ask:
+
+> Does the result preserve the donor experience where fidelity was explicitly required while replacing donor identity and meaning with the target Soul?
+
+### New foundation artifacts
+
+```text
+methodology/INK-VK_REPLICATION_MODES_v0.1.md
+active/step-0-foundation/arch/INK-VK_MIGRATION_FLOW_v0.2.md
+active/step-0-foundation/design/VTKALL_SOUL_CONTRACT_v0.1.md
+active/step-0-foundation/design/VTKALL_DAYOS_FIDELITY_CONTRACT_v0.1.md
+active/step-0-foundation/design/VTKALL_DAYOS_ROUTE_EXPERIENCE_MAPPING_v0.1.md
+```
+
+### Current VTKALL × Dayos gate
+
+```text
+TARGET RECOVERY                  ✅
+TARGET AUDIT                     ✅
+TARGET SOUL                      ✅ v0.1
+DONOR RECOVERY                   ✅
+DONOR DNA                        ✅
+REPLICATION MODE                 ✅ R3
+ROUTE / EXPERIENCE MAPPING       ✅ v0.1
+SECTION-BY-SECTION CONTRACT      ← NEXT
+BLUEPRINT                        ⛔
+BUILD                            ⛔
+```
+
+### Framework lesson status
+
+```text
+"acceptable donor fidelity must be explicit"
+→ CROSS-CASE CANDIDATE
+```
+
+It remains a candidate until future cases validate or refine it.
