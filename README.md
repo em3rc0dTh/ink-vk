@@ -89,6 +89,7 @@ For a new campaign:
 
 ```text
 methodology/INK-VK_CASE_WORKSPACE_CONTRACT_v1.0.md
+methodology/INK-VK_CAMPAIGN_OPERATOR_MANUAL_v1.0.md
 methodology/INK-VK_TACTICAL_PLAYBOOK_v1.0.md
 methodology/INK-VK_CAMPAIGN_KICKSTART_TEMPLATE_v1.0.md
 ```
